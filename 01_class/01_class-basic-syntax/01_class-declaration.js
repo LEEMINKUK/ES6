@@ -4,7 +4,7 @@
 // 01. clss declaration(클래스 선언)
 class Student{
 
-    // 생성자를 통해 인슽턴스 생성 및 초기화
+    // 생성자를 통해 인스턴스 생성 및 초기화
     // 생성자는 1개 이상 정의 될 수 없으며 생략할 경우 암묵적으로 정의 된다.
     constructor(name){
         this.group = 1;
