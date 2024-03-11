@@ -10,7 +10,7 @@ class Animal{
     }
 
     eat(foodWeight){
-        this.weight+= foodWeight;
+        this.weight += foodWeight;
         console.log(`${this.name}(은)는 ${foodWeight}kg의 식사를 하고 ${this.weight}kg 이 되었습니다.`);
     }
 
